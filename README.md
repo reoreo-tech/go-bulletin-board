@@ -13,4 +13,4 @@ $ cd ↑のディレクトリに移動
 $go run bbs.go
 
 
-‘ブラウザ’で’http://localhost:8080/'にアクセス
+ブラウザで’http://localhost:8080/'　にアクセス
